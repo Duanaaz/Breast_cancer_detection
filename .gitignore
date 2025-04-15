@@ -1,0 +1,16 @@
+# Ignore cat cancer related files
+cat.py
+cattt.py
+cat_cancer_ui.py
+cat_cancer_model.pkl
+fmc_dataset.csv
+fmc_dataset_expanded.csv
+fmc_scaler.pkl
+generate_fmc_dataset.py
+metabolites-14-00501.pdf
+
+# Ignore Python cache & temp files
+__pycache__/
+*.pyc
+*.pyo
+*.log
